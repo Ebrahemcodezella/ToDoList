@@ -1,5 +1,4 @@
-echo "# 📝 ToDoList Application  
-The **ToDoList** project is a task management application built with **Spring Boot**. It provides **CRUD** operations (Create, Read, Update, Delete) to manage tasks easily.
+
 
 ## 🚀 Features  
 - Add new tasks.  
@@ -12,7 +11,7 @@ The **ToDoList** project is a task management application built with **Spring Bo
 - **Spring Data JPA** - For database management.  
 - **PostgreSQL** - Database used.  
 - **Docker** (optional) - For easy deployment.  
-- **Swagger** - Interactive API documentation.  
+ documentation.  
 
 ## ⚙️ Setup Guide  
 ### 1️⃣ **Clone the Repository**  
@@ -45,8 +44,6 @@ docker build -t todolist-app .
 docker run -p 8080:8080 todolist-app
 \`\`\`
 
-## 📜 License  
-This project is open-source under the **MIT License**.  
 
 ## ✨ Author  
 **Ebrahem Hany** - [GitHub](https://github.com/Ebrahemcodezella)" > README.md
